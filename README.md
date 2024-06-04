@@ -1,2 +1,6 @@
-# app-dev
-My first repository
+# Grimsby
+**Grimsby -** (released as The Brothers Grimsby in North America) is a 2016 spy action comedy film directed by Louis Leterrier and written by Sacha Baron Cohen, Phil Johnston, and Peter Baynham. The film stars Baron Cohen, Mark Strong, Rebel Wilson, Isla Fisher, Annabelle Wallis, Gabourey Sidibe, Penélope Cruz, and Ian McShane. Grimsby was released by Sony Pictures Releasing, on 24 February 2016 in the United Kingdom and 11 March 2016 in the United States. It was poorly received by film critics and failed to recoup its $35 million budget, making it a box-office failure.
+# Plot
+Kyle Alan "Nobby" Butcher had been separated from his little brother Sebastian Butcher for 28 years. During their years apart, Nobby became an alcoholic football hooligan who started a life with his girlfriend Dawn and their 11 children in Grimsby, while Sebastian, now known as Sebastian Graves, has become one of MI6's top agents.
+
+After completing an interrogation, Sebastian gets information regarding philanthropist Rhonda George, who is hosting a benefit called WorldCure and is a potential target for assassination, and is assigned to go. Nobby's friends at the pub also find out that Sebastian will be at WorldCure, and convince Nobby to go there and reconnect with him. At the event, Sebastian sees hitman Pavel Lukashenko, who plans to assassinate Rhonda with a gun disguised as a video camera. As Sebastian prepares to shoot the camera, Nobby sees him and gives him a hug, causing him to accidentally shoot an AIDS-infected Jewish-Palestinian boy named Schlomo (Yusuf Hofri). The spray of blood lands in Daniel Radcliffe's mouth, infecting him with AIDS.
